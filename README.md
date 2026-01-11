@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello!! :3
 
 <!--
 **Bellawarrior22/Bellawarrior22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
