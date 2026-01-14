@@ -28,4 +28,16 @@
 
 <p style=<p align="center"><sub>- 𝐓𝐢𝐦𝐞 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐟𝐮𝐧 𝐩𝐚𝐫𝐭 :) -</sub></p>
 <h2 style=<p align="center">.𖥔 ݁ ˖ 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐬 .𖥔 ݁ ˖</h2>
-<p style=<p align="center"><sub>- 𝐃𝐞𝐜𝐢𝐝𝐞𝐝 𝐭𝐨 𝐦𝐚𝐤𝐞 𝐭𝐡𝐞𝐬𝐞 𝐞𝐱𝐚𝐩𝐚𝐧𝐝𝐚𝐛𝐥𝐞 𝐬𝐢𝐧𝐜𝐞 𝐢𝐭𝐬 𝐚 𝐥𝐨𝐭 𝐥𝐨𝐥 -</sub></p>
+<p style=<p align="center"><sub>- 𝐃𝐞𝐜𝐢𝐝𝐞𝐝 𝐭𝐨 𝐦𝐚𝐤𝐞 𝐭𝐡𝐞𝐬𝐞 𝐞𝐱𝐩𝐚𝐧𝐝𝐚𝐛𝐥𝐞 𝐬𝐢𝐧𝐜𝐞 𝐢𝐭'𝐬 𝐚 𝐥𝐨𝐭 𝐥𝐨𝐥 -</sub></p>
+
+<br>
+
+<div align="center">
+<details>
+  <summary><ins>𝐇𝐨𝐛𝐛𝐢𝐞𝐬</ins></summary>
+
+  <div align="center">
+    <p> WIP </p>
+  </div>
+</details>
+<br>
