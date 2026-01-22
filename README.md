@@ -1,9 +1,9 @@
-<h1 style=<p align="center"><span style="color:#ff99cc;">.𖥔 ݁ ˖ 𝐇𝐞𝐥𝐥𝐨! :𝟑 .𖥔 ݁ ˖</span></h1>
+<h1 style=<p align="center"><span style="color:#ff99cc;">.𖥔 ݁ ˖ 𝐇𝐞𝐥𝐥𝐨 :3 .𖥔 ݁ ˖</span></h1>
 
 <p align="center"> 
 <img src="https://github.com/Bellawarrior22/Bellawarrior22/blob/main/flowers-5820050_1920.jpg" alt="Flowers :3" width="800" />
 
-<h3 style=<p align="center"><strong>"𝐈𝐟 𝐲𝐨𝐮 𝐜𝐚𝐧𝐧𝐨𝐭 𝐛𝐞𝐜𝐨𝐦𝐞 𝐬𝐭𝐫𝐨𝐧𝐠, 𝐈 𝐰𝐢𝐥𝐥 𝐬𝐭𝐚𝐲 𝐛𝐲 𝐲𝐨𝐮𝐫 𝐬𝐢𝐝𝐞 𝐚𝐧𝐝 𝐩𝐫𝐨𝐭𝐞𝐜𝐭 𝐲𝐨𝐮." - 𝐌𝐨 𝐗𝐢𝐚𝐧𝐠 𝐓𝐨𝐧𝐠 𝐗𝐢𝐮</strong></h3>
+<h3 style=<p align="center"><strong>"𝑰𝒇 𝒚𝒐𝒖 𝒄𝒂𝒏𝒏𝒐𝒕 𝒃𝒆𝒄𝒐𝒎𝒆 𝒔𝒕𝒓𝒐𝒏𝒈, 𝑰 𝒘𝒊𝒍𝒍 𝒔𝒕𝒂𝒚 𝒃𝒚 𝒚𝒐𝒖𝒓 𝒔𝒊𝒅𝒆 𝒂𝒏𝒅 𝒑𝒓𝒐𝒕𝒆𝒄𝒕 𝒚𝒐𝒖" - 𝑴𝒐 𝑿𝒊𝒂𝒏𝒈 𝑻𝒐𝒏𝒈 𝑿𝒊𝒖</strong></h3>
 
 <h2 style=<p align="center"><strong>𐔌՞꜆. ̫.꜀՞𐦯</strong></h2>
 
@@ -20,7 +20,7 @@
 
 <h3 style=<p align="center">.𖥔 ݁ ˖ 𝐃𝐍𝐈 .𖥔 ݁ ˖</h3>
 <p style=<p align="center">𝐀𝐧𝐲𝐨𝐧𝐞 𝐮𝐧𝐝𝐞𝐫 𝐭𝐡𝐞 𝐚𝐠𝐞 𝐨𝐟 𝟏𝟓.</p>
-<p style=<p align="center">𝐇𝐨𝐦𝐨𝐩𝐡𝐨𝐛𝐢𝐜, 𝐑𝐚𝐜𝐢𝐬𝐭, 𝐏𝐞𝐝𝐨𝐩𝐡𝐢𝐥𝐞𝐬, 𝐙𝐨𝐨𝐩𝐡𝐢𝐥𝐞𝐬.</p>
+<p style=<p align="center">𝐇𝐨𝐦𝐨𝐩𝐡𝐨𝐛𝐢𝐜, 𝐑𝐚𝐜𝐢𝐬𝐭, 𝐏𝐞𝐝𝐨𝐩𝐡𝐢𝐥𝐞𝐬, 𝐙𝐨𝐨𝐩𝐡𝐢𝐥𝐞𝐬, 𝐞𝐭𝐜.</p>
 <p style=<p align="center">𝐏𝐫𝐨𝐬𝐡𝐢𝐩𝐩𝐞𝐫𝐬/𝐃𝐚𝐫𝐤𝐬𝐡𝐢𝐩𝐩𝐞𝐫𝐬.</p>
 
 <p align="center"> 
