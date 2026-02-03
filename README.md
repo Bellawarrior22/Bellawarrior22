@@ -19,7 +19,7 @@
 <img src="https://github.com/Bellawarrior22/Bellawarrior22/blob/main/lavender-blush-color_color.png" alt="Lavender Blush Divider" width="700" />
 
 <h3 style=<p align="center">.𖥔 ݁ ˖ 𝐃𝐍𝐈 .𖥔 ݁ ˖</h3>
-<p style=<p align="center">𝐀𝐧𝐲𝐨𝐧𝐞 𝐮𝐧𝐝𝐞𝐫 𝐭𝐡𝐞 𝐚𝐠𝐞 𝐨𝐟 𝟏𝟓.</p>
+<p style=<p align="center">𝐀𝐧𝐲𝐨𝐧𝐞 𝐮𝐧𝐝𝐞𝐫 𝐭𝐡𝐞 𝐚𝐠𝐞 𝐨𝐟 13.</p>
 <p style=<p align="center">𝐇𝐨𝐦𝐨𝐩𝐡𝐨𝐛𝐢𝐜, 𝐑𝐚𝐜𝐢𝐬𝐭, 𝐏𝐞𝐝𝐨𝐩𝐡𝐢𝐥𝐞𝐬, 𝐙𝐨𝐨𝐩𝐡𝐢𝐥𝐞𝐬, 𝐞𝐭𝐜.</p>
 <p style=<p align="center">𝐏𝐫𝐨𝐬𝐡𝐢𝐩𝐩𝐞𝐫𝐬/𝐃𝐚𝐫𝐤𝐬𝐡𝐢𝐩𝐩𝐞𝐫𝐬.</p>
 
